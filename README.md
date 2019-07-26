@@ -4,7 +4,19 @@
 
 ## Websites
 
-- PR welcome..
+**v4**
+
+- https://xmake.io (v4)
+
+**v3**
+
+- https://lad.js.org
+- https://lass.js.org 
+- https://lipo.io
+- https://forwardemail.net
+- https://cabinjs.com
+- https://niftylettuce.com/frisbee
+- https://niftylettuce.com/email-templates
 
 ## Tools
 
