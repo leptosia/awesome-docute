@@ -6,7 +6,7 @@
 
 **v4**
 
-- https://xmake.io / https://github.com/xmake-io/xmake-docs
+- PR Welcome
 
 **v3**
 
