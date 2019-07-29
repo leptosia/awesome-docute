@@ -10,13 +10,13 @@
 
 **v3**
 
-- https://lad.js.org
-- https://lass.js.org 
-- https://lipo.io
-- https://forwardemail.net
-- https://cabinjs.com
-- https://niftylettuce.com/frisbee
-- https://niftylettuce.com/email-templates
+- [lad.js](https://lad.js.org) - Lad scaffolds a Koa webapp and API framework for Node.js
+- [lass.js](https://lass.js.org) - Lass scaffolds a modern package boilerplate for Node.js
+- [lipo](https://lipo.io) - Lipo is a free image manipulation API service built on top of Sharp
+- [Forward Email](https://forwardemail.net) - ForwardEmail is a free, encrypted, and open-source email forwarding service for custom domains
+- [Cabin](https://cabinjs.com) - Cabin is the best JavaScript and Node.js logging service and logging npm package
+- [Frisbee](https://niftylettuce.com/frisbee) - Modern fetch-based alternative to axios/superagent/request. Great for React Native.
+- [Email Templates](https://niftylettuce.com/email-templates) - Create, preview, and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, and much more! Made for sending beautiful emails with Lad.
 
 ## Tools
 
